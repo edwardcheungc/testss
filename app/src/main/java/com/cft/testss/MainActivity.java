@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
         String a = "";
         a = "B";
-        b = "C";
+        a = "C";
     }
 
     @Override
